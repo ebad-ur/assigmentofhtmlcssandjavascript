@@ -1,0 +1,59 @@
+*{
+    margin: 0%;
+}
+
+.sectionone{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    
+    
+}
+
+.logopic img{
+    width: 170px;
+    margin-left: 40px;
+}
+
+.signin h2{
+    margin-right: 50px;
+    margin-top: 10px;
+    
+}
+.section2{
+    text-align: center;
+    font-size: medium;
+    margin-top: 40px;
+}
+
+.section2 h1{
+    line-height: 40px;
+}
+
+.section2 p{
+    font-size: 23px;
+    
+}
+
+#section3{
+margin-top: 20px;
+text-align: center;
+ 
+}
+
+#section3 input ,button{
+    
+    margin: 0%;
+    width: 390px ;
+    padding: 15px 0px ;
+ 
+}
+#section3 button{
+    width: 395px ;
+    padding: 15px 0px ;
+    background-color: red;
+    border-color: red;
+    color: white;
+ 
+}
